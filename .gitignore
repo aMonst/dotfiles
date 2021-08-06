@@ -1,0 +1,14 @@
+.bash*
+.Xauthority
+.cache/
+.gitconfig
+.gnupg
+.lesshst
+.local/
+.subversion/
+.wget-hsts
+dmenu/
+dwm/
+st/
+
+.fehbg
